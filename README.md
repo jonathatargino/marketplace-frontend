@@ -39,10 +39,11 @@ Todas as telas presentes na aplicação estão disponíveis na <a href="https://
 
 ## 👨‍💻 Instalação
 ### Clonando o repositório
-Primeiramente, você deve clonar o repositório deste projeto para sua máquina.
+Primeiramente, você deve clonar o repositório deste projeto (frontend e backend) para sua máquina.
 
 ```
 git clone https://github.com/jonathatargino/marketplace-frontend.git
+git clone https://github.com/jonathatargino/marketplace-backend.git
 git cd marketplace-frontend
 ```
 
@@ -51,7 +52,10 @@ Para criar as imagens docker e rodar o projeto, rode o comando abaixo:
 
 ```
 docker-compose up --build
-``` 
+```
+
+## Backend
+Caso você deseje explorar a parte backend-end deste projeto, <a href="https://github.com/jonathatargino/marketplace-backend">clique aqui</a>.
 
 ## 🧑 Colaboradores
 Este projeto foi inteiramente pensado e desenvolvido por <a href="https://github.com/jonathatargino">Jonatha Targino</a>.
