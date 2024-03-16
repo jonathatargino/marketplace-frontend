@@ -1,20 +1,9 @@
 <h1 align="center">Marketplace (frontend)</h1>
+<h3 align="center">🚧 Este projeto ainda está em desenvolvimento</h3>
 
 ![Todos produtos - Desktop](https://github.com/jonathatargino/marketplace-frontend/assets/102263444/732f4f8d-70ac-49ff-9960-fc030e14bf48)
 
-<h3>🚧 Este projeto ainda está em desenvolvimento</h3>
 
-## Sumário
-
-<!--ts-->
-   * [1. Sobre](#🛍️-sobre)
-   * [2. Tecnologias usadas](#⚙️-tecnologias-usadas)
-   * [3. Telas](#🎨-telas)
-   * [4. Instalação](#👨‍💻-instalação)
-      * [4.1 Clonando o repositório](#clonando-o-repositório)
-      * [4.2 Docker - Frontend e Backend](#docker---frontend-e-backend)
-   * [5. Colaboradores](#🧑-colaboradores)
-<!--te-->
 
 ## 🛍️ Sobre
 
