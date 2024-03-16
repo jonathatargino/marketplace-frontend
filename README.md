@@ -20,12 +20,13 @@
     width="100"
     height="100"
   />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github.com/jonathatargino/marketplace-frontend/assets/102263444/a67f834b-0997-4771-bc68-d040dc1506f3"
     width="100"
     height="100"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </div>
 
 | Environment | Info |
