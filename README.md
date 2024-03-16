@@ -3,8 +3,6 @@
 
 ![Todos produtos - Desktop](https://github.com/jonathatargino/marketplace-frontend/assets/102263444/732f4f8d-70ac-49ff-9960-fc030e14bf48)
 
-
-
 ## 🛍️ Sobre
 
 <p>
@@ -18,17 +16,16 @@
 
 <div>
   <img
-    src="https://github.com/IFCE-LASIC/lasic-ces-front/assets/102263444/1948553f-cb06-4962-aa66-ec367b488454"
+    src="https://github.com/jonathatargino/marketplace-frontend/assets/102263444/74ff189c-4886-4da3-b819-fd8b23f7179f"
+    width="100"
+    height="100"
+  />
+  <img
+    src="https://github.com/jonathatargino/marketplace-frontend/assets/102263444/a67f834b-0997-4771-bc68-d040dc1506f3"
     width="100"
     height="100"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github.com/IFCE-LASIC/lasic-ces-front/assets/102263444/4e898bb4-5fcb-41ed-947b-0644b01b4d6a"
-    width="100"
-    height="100"
-  />
-
 </div>
 
 | Environment | Info |
